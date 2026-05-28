@@ -11,7 +11,7 @@ export const TYPOLOGIES: TypologyDetail[] = [
   },
   {
     id: 'agriturismo',
-    title: 'Modello Agriturismo',
+    title: 'Agriturismo',
     subtitle: 'Integrazione Agricola',
     iconName: 'Sprout',
     description: 'Ospitalità legata alla coltivazione della terra, all’allevamento e alla ristorazione con prodotti genuini e Km zero.',
@@ -93,16 +93,6 @@ export const STRUCTURES: Structure[] = [
     typology: 'bike',
     features: ['Colazioni energetiche', 'Deposito bici interno', 'Vicinanza pineta e mare', 'Itinerari consigliati', 'Noleggio city-bike'],
     coordinates: { lat: 44.2408, lng: 12.3787 }
-  },
-  {
-    id: 'bubble-romagna',
-    name: 'Bubble Room Romagna',
-    location: 'Milano Marittima / Cervia (RA)',
-    distanceFromCervia: 'a Milano Marittima',
-    description: 'Una suggestiva camera con pareti traslucide all’interno dell’Incanto Glamping Village. Perfetta per vivere l’esperienza emozionale di addormentarsi osservando le costellazioni, avvolti dalla rigogliosa pineta di Milano Marittima e a pochissima distanza dalle onde del mare.',
-    typology: 'emozionale',
-    features: ['Stanza trasparente a cupola', 'Immersa nel glamping', 'Vista cielo a 360 gradi', 'Vasca idromassaggio esterna', 'Privacy totale'],
-    coordinates: { lat: 44.2831, lng: 12.3524 }
   },
   {
     id: 'bubble-experience',
