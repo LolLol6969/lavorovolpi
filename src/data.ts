@@ -12,7 +12,7 @@ export const TYPOLOGIES: TypologyDetail[] = [
   {
     id: 'agriturismo',
     title: 'Agriturismo',
-    subtitle: 'Integrazione Agricola',
+    subtitle: 'Agriturismo',
     iconName: 'Sprout',
     description: 'Ospitalità legata alla coltivazione della terra, all’allevamento e alla ristorazione con prodotti genuini e Km zero.',
     colorScheme: 'lime'
@@ -20,7 +20,7 @@ export const TYPOLOGIES: TypologyDetail[] = [
   {
     id: 'rurale',
     title: 'Struttura Ricettiva Rurale',
-    subtitle: 'Patrimonio Naturalistico',
+    subtitle: 'Struttura Ricettiva Rurale',
     iconName: 'Trees',
     description: 'Gestione imprenditoriale focalizzata sul patrimonio ecologico, naturalistico e storico del territorio campestre.',
     colorScheme: 'green'
@@ -36,7 +36,7 @@ export const TYPOLOGIES: TypologyDetail[] = [
   {
     id: 'emozionale',
     title: 'Strutture Emozionali',
-    subtitle: 'Esperienze Uniche',
+    subtitle: 'Strutture Emozionali',
     iconName: 'Sparkles',
     description: 'Alloggi insoliti progettati per connettere profondamente l’ospite con la natura, come le stanze trasparenti sotto le stelle.',
     colorScheme: 'violet'
