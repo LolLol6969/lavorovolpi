@@ -82,13 +82,13 @@ export default function App() {
     switch (typology) {
       case 'territorio':
         return {
-          title: "Inquadramento Albergo Diffuso",
+          title: "Albergo Diffuso",
           norm: "Legge Regionale per la Valorizzazione dei Borghi",
           text: "Rappresenta una formula in grado di rivitalizzare aree interne senza generare nuova volumetria stradale o edilizia. Sfrutta immobili storici preesistenti distanti massimo 200 metri dalla reception centrale e dalla sala colazione."
         };
       case 'agriturismo':
         return {
-          title: "Modello Imprenditoriale Agricolo",
+          title: "Agriturismo",
           norm: "Art. 2135 del Codice Civile Italiano",
           text: "Definisce l'agriturismo come attività connessa all'imprenditore agricolo. L'accoglienza e la somministrazione devono rimanere in rapporto di complementarità rispetto alla coltivazione del fondo e all'allevamento."
         };
@@ -106,7 +106,7 @@ export default function App() {
         };
       case 'emozionale':
         return {
-          title: "Glamping ed Alloggi Emozionali",
+          title: "Alloggi Emozionali",
           norm: "Frontiera del Nuovo Ecoturismo Esperienziale",
           text: "L'alloggio (es. Bubble room trasparente) non è un semplice pernottamento ma l'evento clou del viaggio. Integrazione minima con l'ambiente, strutture amovibili e enfasi assoluta sullo stargazing e sul benessere psicofisico."
         };
