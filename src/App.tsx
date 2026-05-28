@@ -399,10 +399,10 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center sm:text-left flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-brand-850 dark:text-brand-900">
           <div>
             <p className="font-semibold text-brand-850 dark:text-brand-900">
-              Cervia & Romagna Sostenibile &middot; Modelli Teorici di Ricettività
+              LAVORO DI ACCOGLIENZA
             </p>
             <p className="mt-1">
-              Esame accademico delle tesi di valorizzazione dei centri storici, agriturismi Km 0, bike hospitality e alloggi emozionali.
+             FATTO DA ORLANDO.
             </p>
           </div>
           
