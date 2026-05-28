@@ -1,6 +1,0 @@
-{
-  "name": "Studio Ricettivo Romagna",
-  "description": "Una guida e studio minimalista alle strutture ricettive in Romagna vicino a Cervia in stile Oro, Carne e Beige.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
