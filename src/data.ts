@@ -85,16 +85,6 @@ export const STRUCTURES: Structure[] = [
     coordinates: { lat: 44.2647, lng: 12.3610 }
   },
   {
-    id: 'furga',
-    name: 'Hotel Furga',
-    location: 'Pinarella di Cervia (RA)',
-    distanceFromCervia: 'a Pinarella di Cervia',
-    description: 'Accogliente indirizzo romagnolo dedicato al turismo attivo e ai ciclisti. Mette a disposizione colazioni salate e rinforzate ideali per lunghe tratte, un deposito custodito per biciclette e una posizione ottimale vicino alla pineta.',
-    typology: 'bike',
-    features: ['Colazioni energetiche', 'Deposito bici interno', 'Vicinanza pineta e mare', 'Itinerari consigliati', 'Noleggio city-bike'],
-    coordinates: { lat: 44.2408, lng: 12.3787 }
-  },
-  {
     id: 'bubble-experience',
     name: 'Bubble Room Experience',
     location: 'Casteldelci (RN)',
