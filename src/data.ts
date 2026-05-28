@@ -28,7 +28,7 @@ export const TYPOLOGIES: TypologyDetail[] = [
   {
     id: 'bike',
     title: 'Modello Bike Hotel',
-    subtitle: 'Turismo Attivo & Ciclisti',
+    subtitle: 'Bike hotel',
     iconName: 'Bike',
     description: 'Accoglienza su misura per cicloturisti con officine, depositi di sicurezza, colazioni energetiche e percorsi dedicati.',
     colorScheme: 'teal'
